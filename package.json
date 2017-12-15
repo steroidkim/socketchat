@@ -1,0 +1,9 @@
+{
+  "name": "socket-on-a-chat",
+  "version": "0.0.1",
+  "description": "웹소켓 실시간 채팅 프로그램",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
